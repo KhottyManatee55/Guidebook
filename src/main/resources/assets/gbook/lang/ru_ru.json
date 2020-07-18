@@ -1,0 +1,11 @@
+{
+    "item.gbook.guidebook": "Руководство",
+
+    "itemGroup.gbook": "Руководство",
+
+    "text.copyToClipboard.line1": "Книга хочет поместить текст в буфер обмена.",
+    "text.copyToClipboard.line2": "Вы уверены, что хотите это позволить?",
+    "text.copyToClipboard.success": "Текст успешно скопирован.",
+
+    "cmd.gbook.guide.done": "Перезагрузка завершена"
+}
